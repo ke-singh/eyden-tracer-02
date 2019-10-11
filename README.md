@@ -3,6 +3,7 @@ Please put your name (or names if you work in a group) here:
 **Name**: Keshav Kumar Singh and Ayesha Naeem
 
 **Reference**: https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading
+
 **Group Work with**: Group work with Zohair Ajmal and Anisha Amir.
 
 ## Problem 2.2
